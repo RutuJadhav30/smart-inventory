@@ -1,0 +1,104 @@
+TransactionID: 1
+ItemID: 1
+UserID: 1
+QuantitySold: 10
+TotalPrice: 699990.00
+SaleDate: 2024-10-14
+CustomerName: Rohit Sharma
+CustomerEmail: rohitsharma@gmail.com
+CustomerPhone: 9876543210
+CreatedAt: 2024-10-14 00:21:32
+UpdatedAt: 2024-10-14 00:21:32
+
+--------------------
+TransactionID: 2
+ItemID: 2
+UserID: 1
+QuantitySold: 5
+TotalPrice: 749995.00
+SaleDate: 2024-10-14
+CustomerName: Anjali Patel
+CustomerEmail: anjalipatel@gmail.com
+CustomerPhone: 9123456789
+CreatedAt: 2024-10-14 00:22:33
+UpdatedAt: 2024-10-14 00:22:33
+
+--------------------
+TransactionID: 3
+ItemID: 3
+UserID: 1
+QuantitySold: 3
+TotalPrice: 119997.00
+SaleDate: 2024-10-14
+CustomerName: Rajesh Kumar
+CustomerEmail: rajeshkumar@gmail.com
+CustomerPhone: 9988776655
+CreatedAt: 2024-10-14 00:23:15
+UpdatedAt: 2024-10-14 00:23:15
+
+--------------------
+TransactionID: 4
+ItemID: 5
+UserID: 1
+QuantitySold: 5
+TotalPrice: 299995.00
+SaleDate: 2024-10-14
+CustomerName: Amit Verma
+CustomerEmail: amitverma@gmail.com
+CustomerPhone: 9876512345
+CreatedAt: 2024-10-14 00:24:12
+UpdatedAt: 2024-10-14 00:24:12
+
+--------------------
+TransactionID: 5
+ItemID: 4
+UserID: 1
+QuantitySold: 15
+TotalPrice: 44985.00
+SaleDate: 2024-10-14
+CustomerName: Priya Singh
+CustomerEmail: priyasingh@gmail.com
+CustomerPhone: 9876541230
+CreatedAt: 2024-10-14 00:26:11
+UpdatedAt: 2024-10-14 00:26:11
+
+--------------------
+TransactionID: 6
+ItemID: 6
+UserID: 1
+QuantitySold: 10
+TotalPrice: 139990.00
+SaleDate: 2024-10-14
+CustomerName: Pooja Desai
+CustomerEmail: poojadesai@gmail.com
+CustomerPhone: 9988771122
+CreatedAt: 2024-10-14 00:26:44
+UpdatedAt: 2024-10-14 00:26:44
+
+--------------------
+TransactionID: 7
+ItemID: 1
+UserID: 1
+QuantitySold: 10
+TotalPrice: 699990.00
+SaleDate: 2024-11-30
+CustomerName: Bhupendar Jogi
+CustomerEmail: bhupendarjogi@gmail.com
+CustomerPhone: 9868409836
+CreatedAt: 2024-11-30 11:15:26
+UpdatedAt: 2024-11-30 11:15:26
+
+--------------------
+TransactionID: 8
+ItemID: 1
+UserID: 1
+QuantitySold: 7
+TotalPrice: 489993.00
+SaleDate: 2024-11-30
+CustomerName: Jethalal Gada
+CustomerEmail: jethalalgada@gmail.com
+CustomerPhone: 9789537028
+CreatedAt: 2024-11-30 11:16:17
+UpdatedAt: 2024-11-30 11:16:17
+
+--------------------
