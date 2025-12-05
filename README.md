@@ -117,27 +117,6 @@ cd smart-inventory
 - You can verify by checking the structure in phpMyAdmin
 ```
 
-## 👥 Project Members
-
-<div align="center">
-
-### 👨‍💻 **Team Lead**
-
-**Nitin Govardhane**  
-[![Email](https://img.shields.io/badge/Email-nitingovardhane000%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nitingovardhane000@gmail.com)
-
-### 👩‍💻 **Team Members**
-
-**Rutuja Jadhav**  
-[![Email](https://img.shields.io/badge/Email-rutujadhav0401%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rutujadhav0401@gmail.com)
-
-**Jitesh Borse**  
-[![Email](https://img.shields.io/badge/Email-khushborse92%40gmail.com-red?style=flat-square&logo=gmail)](mailto:khushborse92@gmail.com)
-
-**Vedanti Lakade**  
-[![Email](https://img.shields.io/badge/Email-lakadevedanti%40gmail.com-red?style=flat-square&logo=gmail)](mailto:lakadevedanti@gmail.com)
-
-</div>
 
 <div align="center">
 Made with ❤️ by Rutuja Jadhav
